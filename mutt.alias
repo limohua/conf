@@ -1,0 +1,103 @@
+alias qelist APAC\ QE	<apac-qe-list@redhat.com>
+alias yshao Yu\ Shao	<yshao@redhat.com>
+alias ykun Kun\ Yang	<ykun@redhat.com>
+alias xiqin Cynthia\ Qin	<xiqin@redhat.com>
+alias xisun Nicholas\ Sun	<xisun@redhat.com>
+alias dmao Deng\ Feng\ Mao	<dmao@redhat.com>
+alias bsun Bill\ Sun	<bsun@redhat.com>
+alias llim Lawrence\ Lim	<llim@redhat.com>
+alias ndai Nicole\ Dai	<ndai@redhat.com>
+alias xwang Xiaohong\ Wang	<xwang@redhat.com>
+alias tyan Yan\ Tian	<tyan@redhat.com>
+alias kzhang Kexin\ Zhang	<kzhang@redhat.com>
+alias qcai Qian\ Cai	<qcai@redhat.com>
+alias wezhang Wenming\ Zhang	<wezhang@redhat.com>
+alias phan Ping\ Tian\ Han	<phan@redhat.com>
+alias amwang Cong\ Wang	<amwang@redhat.com>
+alias dfeng Danny\ Feng	<dfeng@redhat.com>
+alias hjia Hu\ Shan\ Jia	<hjia@redhat.com>
+alias ahe Alex\ He	<ahe@redhat.com>
+alias gren Guan\ Nan\ Ren	<gren@redhat.com>
+alias byang Bear\ Yang	<byang@redhat.com>
+alias vchen Victor\ Chen	<vchen@redhat.com>
+alias edwang Edward\ Wang	<edwang@redhat.com>
+alias lihuang Li\ Jun\ Huang	<lihuang@redhat.com>
+alias jiabwang Jia\ Bo\ Wang	<jiabwang@redhat.com>
+alias yzhou Yolkfull\ Chow	<yzhou@redhat.com>
+alias kxiong Koka\ Xiong	<kxiong@redhat.com>
+alias shuang Su\ Qin\ Huang	<shuang@redhat.com>
+alias xkuang Xu\ Qing\ Kuang	<xkuang@redhat.com>
+alias eli Ethan\ Li	<eli@redhat.com>
+alias ryang Ryan\ Ren	<ryang@redhat.com>
+alias yoyzhang Hai\ Yan\ Zhang	<yoyzhang@redhat.com>
+alias mshao Maggie\ Shao	<mshao@redhat.com>
+alias michen Miya\ Chen	<michen@redhat.com>
+alias szhou Shirley\ Zhou	<szhou@redhat.com>
+alias jasowang Jason\ Wang	<jasowang@redhat.com>
+alias gyue Golita\ Yue	<gyue@redhat.com>
+alias kcao Chen\ Cao	<kcao@redhat.com>
+alias micwang Michael\ Wang	<micwang@redhat.com>
+alias xinsun Xin\ Sun	<xinsun@redhat.com>
+alias akong Amos\ Kong	<akong@redhat.com>
+alias yuzhang Yu\ Fang\ Zhang	<yuzhang@redhat.com>
+alias jyang Osier\ Yang	<jyang@redhat.com>
+alias jdong Nikki\ Dong	<jdong@redhat.com>
+alias vbian Vivian\ Bian	<vbian@redhat.com>
+alias nzhang Neil\ Zhang	<nzhang@redhat.com>
+alias qwan Qi\ Xiang\ Wan	<qwan@redhat.com>
+alias ajia Alex\ Jia	<ajia@redhat.com>
+alias jutan Jun\ Tan	<jutan@redhat.com>
+alias rwu Rita\ Wu	<rwu@redhat.com>
+alias zdou Brian\ Dou	<zdou@redhat.com>
+alias yxie Yi\ Qiang\ Xie	<yxie@redhat.com>
+alias qzhang Qun\ Fang\ Zhang	<qzhang@redhat.com>
+alias fyang Feng\ Yang\	<fyang@redhat.com>
+alias sshang Shu\ Xi\ Shang	<sshang@redhat.com>
+alias jiyang Jing\ Yang	<jiyang@redhat.com>
+alias dli Dan\ Qing\ Li	<dli@redhat.com>
+alias kyma Bo\ Ma	<kyma@redhat.com>
+alias czhao Cindy\ Zhao	<czhao@redhat.com>
+alias khe Hia\ He	<khe@redhat.com>
+alias lisli Lisa\ Li	<lisli@redhat.com>
+alias fluo Fei\ Luo	<fluo@redhat.com>
+alias phuang Shawn\ Huang	<phuang@redhat.com>
+alias jni James\ Ni	<jni@redhat.com>
+alias weizhang Wei\ Zhang	<weizhang@redhat.com>
+alias lhongyi Ananl\ Luo	<lhongyi@redhat.com>
+alias tguo Tai\ Guo	<tguo@redhat.com>
+alias sli Shui\ Li	<sli@redhat.com>
+alias lili Liam\ Li	<lili@redhat.com>
+alias jliu Jervis\ Liu	<jliu@redhat.com>
+alias jizhang Jeff\ Zhang	<jizhang@redhat.com>
+alias yyang Yong\ Yang	<yyang@redhat.com>
+alias ema Jim\ Ma	<ema@redhat.com>
+alias cyu Jeff\ Yu	<cyu@redhat.com>
+alias fqian Grid\ Qian	<fqian@redhat.com>
+alias dxu Denny\ Xu	<dxu@redhat.com>
+alias dpeng Dart\ Peng	<dpeng@redhat.com>
+alias hgao Howard\ Gao	<hgao@redhat.com>
+alias zfeng Zheng\ Feng	<zfeng@redhat.com>
+alias rzhang Ryan\ Zhang	<rzhang@redhat.com>
+alias stliu Strong\ Liu	<stliu@redhat.com>
+alias dcai Doney\ Cai	<dcai@redhat.com>
+alias ssu Susie\ Su	<ssu@redhat.com>
+alias jjiang Jason\ Jiang	<jjiang@redhat.com>
+alias juchen Justin\ Chen	<juchen@redhat.com>
+alias jawang James\ Wang	<jawang@redhat.com>
+alias jxu Jacob\ Xu	<jxu@redhat.com>
+alias alsong Alien\ Song	<alsong@redhat.com>
+alias qchen Maggie\ Chen	<qchen@redhat.com>
+alias yliu Yang\ Liu	<yliu@redhat.com>
+alias alliu Alf\ Liu	<alliu@redhat.com>
+alias mshi Mei\ Yan\ Shi	<mshi@redhat-service.com.cn>
+alias ngao Nan\ Nan\ Gao	<ngao@redhat-service.com.cn>
+alias jcai Jie\ Cai	<jcai@redhat-service.com.cn>
+alias xjwang Ada\ Wang	<xjwang@redhat-service.com.cn>
+alias jey Jessie\ Jing	<jey@redhat-service.com.cn>
+alias fupingdiandian Ivy\ Yao	<fupingdiandian@hotmail.com>
+alias zhumh Ming\ Hui\ Zhu	<zhumh@aokaifh.cn>
+alias jili Maria\ Li	<jili@redhat.com>
+alias czheng Catherine\ Zheng	<czheng@redhat.com>
+alias fmeng Selina\ Meng	<fmeng@redhat.com>
+alias china_list china_list <china-list@redhat.com>
+alias Grace Grace Liu <yal@redhat.com>
