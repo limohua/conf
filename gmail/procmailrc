@@ -1,0 +1,25 @@
+PATH=/bin:/usr/bin:/usr/local/bin
+VERBOSE=off
+DEFAULT=$HOME/.mail/inbox
+MAILDIR=$HOME/.mail
+LOGFILE=$HOME/.procmaillog
+
+#Recipes below this comments
+#
+:0:
+* ^(To|Cc).*virtualization@lists\.linux-foundation\.org
+virtualization
+
+:0:
+* ^(To|Cc).*@.*ceph\.com
+ceph
+
+:0:
+* ^(To|Cc).*ceph-devel@vger.kernel.org
+ceph
+
+:0:
+* ^(To|Cc).*@.*openstack\.org
+openstack
+
+
